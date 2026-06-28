@@ -1,0 +1,30 @@
+# NexusRAG Requirements
+# All free, no paid subscriptions needed
+
+# Core framework
+streamlit>=1.32.0
+
+# LLM (Groq - free tier, 14,400 req/day)
+groq>=0.5.0
+
+# Embeddings (local, free)
+sentence-transformers>=2.6.0
+
+# Vector search (local, free)
+faiss-cpu>=1.7.4
+
+# Sparse search (local, free)
+rank-bm25>=0.2.2
+
+# Web search (DuckDuckGo, free, no API key)
+duckduckgo-search>=4.0.0
+
+# Document parsing
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Numerics
+numpy>=1.24.0
+
+# Optional: better NER (heavy, comment out if slow deploy)
+# spacy>=3.7.0
