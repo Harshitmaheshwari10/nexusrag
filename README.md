@@ -36,19 +36,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 🚀 Deploy to Streamlit Cloud (Free)
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **New app** → select your repo → `app.py`
-4. Click **Deploy** — done in 2 minutes
-
-No environment variables needed (Groq key is entered in the UI sidebar).
-
----
-
 ## 🔑 Getting Your Free Groq Key
 
 1. Go to [console.groq.com](https://console.groq.com)
@@ -145,6 +132,4 @@ After uploading a research paper:
 - **pypdf** — PDF parsing (MIT)
 - **python-docx** — DOCX parsing (MIT)
 
----
 
-Built with ❤️ — zero subscription costs, forever.
