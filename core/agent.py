@@ -1,4 +1,10 @@
-
+"""
+NexusRAG Agent
+- Groq API (free tier: llama-3.3-70b-versatile, 14,400 req/day)
+- Smart routing: docs / web / hybrid
+- Answer synthesis with source attribution
+- Conversation-aware (uses chat history)
+"""
 
 import re
 import json
