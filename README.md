@@ -2,8 +2,6 @@
 
 **Multi-Document Agent with Hybrid Search, Web Augmentation & Knowledge Graph**
 
-> 100% free end-to-end. No paid APIs. No subscriptions. Just a free Groq key.
-
 ---
 
 ## ✨ What Makes This Special
@@ -42,8 +40,6 @@ streamlit run app.py
 2. Sign up (free, no card needed)
 3. Click **API Keys** → **Create API Key**
 4. Paste into NexusRAG sidebar
-
-**Free limits:** 14,400 requests/day, 30 req/min — more than enough.
 
 ---
 
